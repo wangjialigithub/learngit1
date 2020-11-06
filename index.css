@@ -5,4 +5,12 @@ div {
 }
 p {
     background-color: greenyellow;
+    color: blueviolet;
+    cursor: pointer;
+}
+span {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    color: red;
 }
